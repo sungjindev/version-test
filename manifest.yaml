@@ -1,0 +1,6 @@
+server:
+  version: 1.0
+executer:
+  version: 2.0
+operator:
+  version: 3.0
