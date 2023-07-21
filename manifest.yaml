@@ -1,6 +1,6 @@
 server:
-  version: 1.0
+  version: 1.0c
 executer:
-  version: 2.0
+  version: 2.0c
 operator:
-  version: 3.0
+  version: 3.0c
